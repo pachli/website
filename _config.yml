@@ -27,8 +27,9 @@ github_username:  pachli
 repository: pachli/website
 theme_color: pachli
 excerpt_separator: <!--more-->
-mastodon_server: mastodon.social
-mastodon_user: "@pachli"
+mastodon:
+  server: mastodon.social
+  user: "@pachli"
 
 # Build settings
 remote_theme: pachli/jekyll-theme-swiss@pachli-modifications
