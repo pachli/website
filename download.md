@@ -4,8 +4,12 @@ title: Download
 permalink: /download/
 ---
 
-**Pachli** will be available in the Google Play and F-Droid app stores.
+**Pachli** can be installed from from [Google Play](https://play.google.com/store/apps/details?id=app.pachli) store and [F-Droid](https://f-droid.org/packages/app.pachli).
 
-At the time of writing the app submission is going through the relevant approvals processes. When those are complete this page will be updated with relevant links.
+[<img alt="Get Pachli on Google Play" height="80" src="/assets/download/google-play-badge.png"/>](https://play.google.com/store/apps/details?id=app.pachli) [<img src="/assets/download/fdroid-badge.png" alt="Get Pachli on F-Droid" height="80">](https://f-droid.org/packages/app.pachli)
 
-In the meantime the source code is available at [https://github.com/pachli/pachli-android](https://github.com/pachli/pachli-android).
+The source code is available on GitHub, at [https://github.com/pachli/pachli-android](https://github.com/pachli/pachli-android).
+
+--- 
+
+Google Play and the Google Play logo are trademarks of Google LLC.

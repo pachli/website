@@ -8,7 +8,7 @@ categories: pachli
 
 Pachli-the-application is a best-in-class open source Android application for Mastodon and Mastodon-like servers. If you're familiar with Tusky then you'll love Pachli.
 
-Carry on reading to learn more about the application, or head to the [About](/about) page to see what we're all about.
+Get Pachli on [Google Play](https://play.google.com/store/apps/details?id=app.pachli) or [F-Droid](https://f-droid.org/packages/app.pachli), carry on reading to learn more about the application, or head to the [About](/about) page to see what we're all about.
 
 <!--more-->
 
