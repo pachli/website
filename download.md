@@ -10,6 +10,8 @@ permalink: /download/
 
 The source code is available on GitHub, at [https://github.com/pachli/pachli-android](https://github.com/pachli/pachli-android).
 
+Individual releases can also be downloaded from the GitHub Release page, at [https://github.com/pachli/pachli-android/releases](https://github.com/pachli/pachli-android/releases).
+
 --- 
 
 Google Play and the Google Play logo are trademarks of Google LLC.
