@@ -31,6 +31,9 @@ mastodon:
   server: mastodon.social
   user: "@pachli"
 
+google_play:
+  app_id: app.pachli
+
 # Build settings
 remote_theme: pachli/jekyll-theme-swiss@pachli-modifications
 #local_theme: pachli-swiss
