@@ -14,6 +14,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins# If you have any plugins, p
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-local-theme"
+  gem 'jekyll-seo-tag', '~> 2.8'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
