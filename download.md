@@ -36,7 +36,7 @@ The source code is available on GitHub, at [https://github.com/pachli/pachli-and
 
 # Previous releases
 
-Individual releases can also be downloaded from the [GitHub Release page](https://github.com/pachli/pachli-android/releases).
+Previous releases can be downloaded from the [GitHub Release page](https://github.com/pachli/pachli-android/releases).
 
 ---
 
