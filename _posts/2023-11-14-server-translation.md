@@ -5,6 +5,8 @@ date: "2023-11-14 12:00:00 +0200"
 categories: pachli
 ---
 
+> Edit: This feature is now also available in Pachli 2.0.0.
+
 [Pachli Current](/download) (on [Google Play](https://play.google.com/store/apps/details?id=app.pachli.current)) now supports server-side translation of posts.
 
 This means the translation does not happen on your device. Instead (and if your Mastodon provider is configured to support it) Pachli asks your Mastodon provider to translate the post, and they, in turn, typically contact a third-party translation service (often DeepL.com) to do the actual translation. Then a copy of the translation is sent back to Pachli.
