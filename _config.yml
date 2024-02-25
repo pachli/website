@@ -37,7 +37,14 @@ google_play:
 
 # jekyll-seo-tag
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-logo: "/assets/home/pachli_icon_orange_blue_256.png"
+logo: /assets/home/pachli_icon_orange_blue_256.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/home/pachli_icon_orange_blue_256.png
 social:
   name: Pachli
   links: https://mastodon.social/@pachli
