@@ -134,7 +134,7 @@ However, there are many other extremely valuable ways that you can contribute to
 	- Converting user problems reports on social media to properly tracked issues
 	- Responding to users who have questions
 	- Identifying patterns of questions that point to where the application can be improved
-- Liaising between the Pachli project and other Fediverse probjects
+- Liaising between the Pachli project and other Fediverse projects
 
 These are often seen as non-technical, "soft" skills that are undervalued. This project will not do that.
 
