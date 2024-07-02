@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pachli
+subtitle: A Nivenly Foundation project
 email: team@pachli.app
 description: Cooperative social media
 baseurl: "" # the subpath of your site, e.g. /blog
