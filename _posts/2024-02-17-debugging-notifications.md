@@ -4,6 +4,8 @@ title: "Debugging notifications"
 date: "2024-02-17 09:00:00 +0200"
 categories: pachli
 ---
+> Note: Some of this post has been superceded by [Pachli 2.8.0](pachli/2024/08/30/2.8.0-release.html).
+
 Pachli started as a fork of Tusky so has inherited some of Tusky's bugs, which are now being fixed.
 
 One of those is users reporting they never receive Android notifications for Mastodon events; when someone follows you, or replies to one of your posts, or a poll you've voted on closes, etc.
