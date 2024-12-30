@@ -1,0 +1,14 @@
+{
+	"PR reference": {
+		"scope": "markdown",
+		"prefix": "#",
+		"body": "#[${1:ref}](https://github.com/pachli/pachli-android/pull/${1:ref})$0",
+		"description": "PR reference"
+	},
+	"Issue reference": {
+		"scope": "markdown",
+		"prefix": "#",
+		"body": "#[${1:ref}](https://github.com/pachli/pachli-android/issues/${1:ref})$0",
+		"description": "Issue reference"
+	}
+}
