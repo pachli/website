@@ -7,7 +7,7 @@
    viewBox="0 0 135.46669 70.908346"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="pachli_release_header.svg"
    inkscape:export-filename="pachli_release_2_3_0.png"
    inkscape:export-xdpi="96"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showguides="true"
+     showguides="false"
      inkscape:zoom="1"
-     inkscape:cx="224"
+     inkscape:cx="224.5"
      inkscape:cy="226"
      inkscape:window-width="2179"
      inkscape:window-height="1462"
@@ -315,28 +315,28 @@
        inkscape:label="Version info">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
          x="118.67204"
          y="59.660469"
          id="text1-6"
          inkscape:label="Shadow"><tspan
            sodipodi:role="line"
            id="tspan1-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
            x="118.67204"
            y="59.660469">2.6.0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.265;stroke-opacity:1"
-         x="118.97203"
-         y="59.660469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.27109;stroke-opacity:1"
+         x="118.97436"
+         y="59.656078"
          id="text1"
          inkscape:label="Version"><tspan
            sodipodi:role="line"
            id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.265;stroke-opacity:1"
-           x="0"
-           y="0">2.6.0</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.27109;stroke-opacity:1;font-size:26px"
+           x="118.97436"
+           y="59.656078">2.6.0</tspan></text>
     </g>
   </g>
 </svg>
