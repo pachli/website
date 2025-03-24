@@ -28,7 +28,7 @@ The [Nivenly Foundation](https://nivenly.org) is a non-profit co-op organization
 
 One of the following happens:
 
-- Either another project takes this idea, through an accident of fate is more popular, and builds a thriving organisation that develops social media apps under these principals
+- Either another project takes this idea, through an accident of fate is more popular, and builds a thriving organisation that develops social media apps under these principles
 - Or the project-under-Nivenly achieves that goal, and after no more than three years I am able to step back from any sort of day-to-day responsibility, because a responsive and engaged membership is supporting a welcoming team of open source contributors
 
 I would be delighted with either of those outcomes.
