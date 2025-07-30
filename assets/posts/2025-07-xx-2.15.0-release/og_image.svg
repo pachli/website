@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="268"
+   viewBox="0 0 135.46669 70.908346"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="pachli_release_header.svg"
+   inkscape:export-filename="pachli_release_2_3_0.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="1"
+     inkscape:cx="224.5"
+     inkscape:cy="226"
+     inkscape:window-width="2179"
+     inkscape:window-height="1462"
+     inkscape:window-x="1216"
+     inkscape:window-y="465"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-13.335977,88.323563"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="118.53334,135.46667"
+       orientation="-1,0"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,16.933334"
+       orientation="0,1"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,118.53334"
+       orientation="0,1"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="41.106187,69.320844"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter50"
+       x="-0.048097469"
+       y="-0.035433054"
+       width="1.1162356"
+       height="1.0856299">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood49" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.500000"
+         id="feGaussianBlur49" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.500000"
+         dy="1.500000"
+         id="feOffset49" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite49" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite50" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask55">
+      <text
+         xml:space="preserve"
+         style="font-size:147.677px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.15372"
+         x="15.959853"
+         y="118.53333"
+         id="text55"
+         inkscape:label="mask"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan55"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.677px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#ffffff;fill-opacity:1;stroke-width:1.15372"
+           x="15.959853"
+           y="118.53333">ℙ</tspan></text>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath119">
+      <text
+         xml:space="preserve"
+         style="font-size:147.677px;display:inline;fill:#000000;stroke-width:1.15372"
+         x="15.959853"
+         y="118.53333"
+         id="text119"
+         inkscape:label="P logo type"><tspan
+           sodipodi:role="line"
+           id="tspan119"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.677px;font-family:Arimo;-inkscape-font-specification:Arimo;stroke-width:1.15372"
+           x="15.959853"
+           y="118.53333">ℙ</tspan></text>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.0035361272"
+       y="-0.002605039"
+       width="1.0070723"
+       height="1.0052101">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11028004"
+         id="feGaussianBlur2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <text
+         xml:space="preserve"
+         style="font-size:147.677px;display:inline;fill:#0000ff;stroke-width:1.15372"
+         x="15.959849"
+         y="118.53336"
+         id="text4"
+         inkscape:label="Black"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.677px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#0000ff;stroke-width:1.15372"
+           x="15.959849"
+           y="118.53336">ℙ</tspan></text>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <text
+         xml:space="preserve"
+         style="font-size:147.677px;display:inline;fill:#0000ff;stroke-width:1.15372"
+         x="15.959849"
+         y="118.53336"
+         id="text5"
+         inkscape:label="Black"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.677px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#0000ff;stroke-width:1.15372"
+           x="15.959849"
+           y="118.53336">ℙ</tspan></text>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5"
+       x="-0.0066265145"
+       y="-0.0052846537"
+       width="1.013253"
+       height="1.0105693">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.28052244"
+         id="feGaussianBlur5" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="P logo type"
+     inkscape:groupmode="layer"
+     id="g51"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#d4d2c6;fill-opacity:1;stroke-width:0.132291"
+       id="rect1"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="1.5875015"
+       inkscape:label="Background - pale grey" />
+    <rect
+       style="display:inline;opacity:1;fill:#f37b2f;fill-opacity:1;stroke-width:0.132291"
+       id="rect12"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="1.5875015"
+       inkscape:label="Background - orange" />
+    <rect
+       style="display:inline;opacity:1;fill:#30383a;fill-opacity:1;stroke-width:0.132291"
+       id="rect11"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="1.5875015"
+       inkscape:label="Background - dark grey" />
+    <rect
+       style="display:inline;opacity:1;fill:#006382;fill-opacity:1;stroke-width:0.191423"
+       id="rect10"
+       width="135.46666"
+       height="70.908333"
+       x="0"
+       y="-5.0862627e-07"
+       inkscape:label="Background - blue" />
+    <text
+       xml:space="preserve"
+       style="font-size:147.677px;display:inline;opacity:0.75;mix-blend-mode:normal;fill:#000000;stroke-width:1.15372;filter:url(#filter2)"
+       x="16.371325"
+       y="118.53336"
+       id="text2"
+       inkscape:label="Shadow"
+       transform="matrix(0.46162549,0,0,0.46162549,6.6788483,5.7524928)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:147.677px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#000000;stroke-width:1.15372"
+         x="16.371325"
+         y="118.53336">ℙ</tspan></text>
+    <rect
+       style="display:none;fill:#d4d2c6;fill-opacity:1;stroke-width:0.264583"
+       id="rect5"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3)"
+       inkscape:label="P - pale grey"
+       transform="matrix(0.46162549,0,0,0.46162549,6.4889003,5.7524938)" />
+    <rect
+       style="display:none;fill:#006382;fill-opacity:1;stroke-width:0.264583"
+       id="rect6"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3)"
+       inkscape:label="P - blue"
+       transform="matrix(0.46162549,0,0,0.46162549,6.4889003,5.7524938)" />
+    <rect
+       style="display:none;fill:#30383a;fill-opacity:1;stroke-width:0.264583"
+       id="rect7"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3)"
+       inkscape:label="P - dark grey"
+       transform="matrix(0.46162549,0,0,0.46162549,6.4889003,5.7524938)" />
+    <rect
+       style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       id="rect3"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3)"
+       inkscape:label="P - black"
+       transform="matrix(0.46162549,0,0,0.46162549,6.4889003,5.7524938)" />
+    <rect
+       style="display:inline;fill:#f37b2f;fill-opacity:1;stroke-width:0.264583"
+       id="rect9"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath3)"
+       inkscape:label="P - orange"
+       transform="matrix(0.46162549,0,0,0.46162549,6.4889003,5.7524938)" />
+    <path
+       id="rect4"
+       style="display:inline;opacity:0.782;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;filter:url(#filter5)"
+       d="M 17.168674,3.4514689 V 130.84938 H 118.76867 V 3.4514689 Z M 30.544602,16.933333 h 38.217306 c 11.873757,0 20.935041,2.547841 27.184387,7.643461 6.297415,5.047549 9.446455,12.330561 9.446455,21.848796 0,5.672483 -1.51435,10.88799 -4.54288,15.647107 -3.0766,4.759117 -7.33092,8.533103 -12.763044,11.321273 -5.384052,2.78817 -11.176993,4.182173 -17.378267,4.182173 H 56.070693 V 118.53333 H 30.544602 Z m 7.787638,7.787639 v 85.952378 h 9.878984 V 24.720972 Z m 17.738453,0 V 69.788505 H 76.621376 V 24.720972 Z m 28.483016,1.802474 v 40.741182 c 4.32647,-1.970948 7.450712,-4.662888 9.373588,-8.075993 1.922875,-3.413104 2.884578,-7.667424 2.884578,-12.763045 0,-10.527744 -4.085945,-17.162046 -12.258166,-19.902144 z"
+       clip-path="url(#clipPath5)"
+       inkscape:label="Highlight"
+       transform="matrix(0.46162549,0,0,0.46162549,6.3846543,5.7524938)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Version info">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
+         x="118.67204"
+         y="59.660469"
+         id="text1-6"
+         inkscape:label="Shadow"><tspan
+           sodipodi:role="line"
+           id="tspan1-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#30383a;fill-opacity:1;stroke:#30383a;stroke-width:1.265;stroke-opacity:1"
+           x="118.67204"
+           y="59.660469">2.15.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:end;letter-spacing:0px;text-anchor:end;display:inline;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.27109;stroke-opacity:1"
+         x="118.97436"
+         y="59.656078"
+         id="text1"
+         inkscape:label="Version"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arimo;-inkscape-font-specification:Arimo;fill:#d4d2d6;fill-opacity:1;stroke:#d4d2d0;stroke-width:1.27109;stroke-opacity:1;font-size:26px"
+           x="118.97436"
+           y="59.656078">2.15.0</tspan></text>
+    </g>
+  </g>
+</svg>
