@@ -20,7 +20,7 @@ Pachli is updated every month, typically at the end of each month.
 
 Install from [Google Play](https://play.google.com/store/apps/details?id=app.pachli), [F-Droid](https://f-droid.org/packages/app.pachli), [GitHub](https://github.com/pachli/pachli-android/releases/latest), or GitHub with [Obtainium](obtainium://add/github.com/pachli/pachli-android).
 
-[<img alt="Get Pachli on Google Play" height="80" src="/assets/download/google-play-badge.png"/>](https://play.google.com/store/apps/details?id=app.pachli) [<img src="/assets/download/fdroid-badge.png" alt="Get Pachli on F-Droid" height="80">](https://f-droid.org/packages/app.pachli) [<img alt="Get Pachli with Obtainium" height="80" src="/assets/download/obtainium-badge.png"/>](obtainium://add/github.com/pachli/pachli-android)
+[<img alt="Get Pachli on Google Play" width="207" height="80" src="/assets/download/google-play-badge.png"/>](https://play.google.com/store/apps/details?id=app.pachli) [<img src="/assets/download/fdroid-badge.png" alt="Get Pachli on F-Droid" width="207" height="80">](https://f-droid.org/packages/app.pachli) [<img alt="Get Pachli with Obtainium" width="207" height="80" src="/assets/download/obtainium-badge.png"/>](obtainium://add/github.com/pachli/pachli-android)
 
 New releases appear on GitHub immediately.
 
@@ -34,7 +34,7 @@ Pachli Current is typically updated once or twice a week.
 
 Pachli Current can be installed from [Google Play](https://play.google.com/store/apps/details?id=app.pachli.current), [GitHub](https://github.com/pachli/pachli-android-current/releases/latest), or GitHub with [Obtainium](obtainium://add/github.com/pachli/pachli-android-current).
 
-[<img alt="Get Pachli Current on Google Play" height="80" src="/assets/download/google-play-badge.png"/>](https://play.google.com/store/apps/details?id=app.pachli.current) [<img alt="Get Pachli with Obtainium" height="80" src="/assets/download/obtainium-badge.png"/>](obtainium://add/github.com/pachli/pachli-android-current)
+[<img alt="Get Pachli Current on Google Play" width="207" height="80" src="/assets/download/google-play-badge.png"/>](https://play.google.com/store/apps/details?id=app.pachli.current) [<img alt="Get Pachli with Obtainium" width="207" height="80" src="/assets/download/obtainium-badge.png"/>](obtainium://add/github.com/pachli/pachli-android-current)
 
 New releases appear on GitHub immediately.
 
