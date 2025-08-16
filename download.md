@@ -42,6 +42,16 @@ There is typically a 12-24 hour delay before a new release is available on Googl
 
 Pachli Current is not available from F-Droid as the F-Droid repository does not support these sorts of releases ([#1153](https://gitlab.com/fdroid/fdroidserver/-/issues/1153)).
 
+# GitHub signing certificate hash
+
+GitHub releases of Pachli and Pachli Current are signed with a certificate with the following SHA-256 hash:
+
+<pre style="overflow-wrap: anywhere; white-space: pre-wrap">
+F0:CD:1F:5C:FF:49:9B:E4:C2:12:8C:11:52:FB:91:9D:C2:48:15:15:2A:99:03:C9:09:4F:F8:40:5F:E1:31:C3
+</pre>
+
+You can use [App Verifier](https://github.com/soupslurpr/AppVerifier/tree/main) to verify the GitHub APK was signed with this certificate. 
+
 # Source code
 
 The source code is available on GitHub, at [https://github.com/pachli/pachli-android](https://github.com/pachli/pachli-android).
