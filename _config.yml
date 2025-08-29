@@ -28,6 +28,7 @@ github_username:  pachli
 repository: pachli/website
 theme_color: pachli
 excerpt_separator: <!--more-->
+umami_website_id: "a83c78ad-12db-44fd-a737-e692011ea924"
 
 mastodon:
   server: mastodon.social
