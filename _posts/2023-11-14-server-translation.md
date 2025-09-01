@@ -99,4 +99,4 @@ The translation service might send back an untranslated copy of the post. This c
 
 In these cases there is nothing Pachli can do about this, but your server administrators may be interested in receiving a problem report.
 
-[Download Pachli Current from Google Play](https://play.google.com/store/apps/details?id=app.pachli.current).
+{% include playlink.html link="Download Pachli Current from Google Play" app="app.pachli.current" campaign="blog" content="textlink" %}.
