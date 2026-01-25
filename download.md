@@ -16,15 +16,28 @@ Pachli and Pachli Current can be installed at the same time and the two variants
 
 # Pachli
 
-Pachli is updated every month, typically at the end of each month.
+Pachli is updated at least once a month, typically at the end of each month.
 
 Install from {% include playlink.html link="Google Play" app="app.pachli" campaign="download" content="textlink" %}, [F-Droid](https://f-droid.org/packages/app.pachli), [GitHub](https://github.com/pachli/pachli-android/releases/latest), or GitHub with [Obtainium](obtainium://add/github.com/pachli/pachli-android).
 
 {% include playlink.html link='<img alt="Get Pachli on Google Play" width="207" height="80" src="/assets/download/google-play-badge.png"/>' app="app.pachli" campaign="download" content="buttonlink" %} [<img src="/assets/download/fdroid-badge.png" alt="Get Pachli on F-Droid" width="207" height="80">](https://f-droid.org/packages/app.pachli) [<img alt="Get Pachli with Obtainium" width="207" height="80" src="/assets/download/obtainium-badge.png"/>](obtainium://add/github.com/pachli/pachli-android)
 
+Each release has an associated article on this site and release announcement from the [@pachli@mastodon.social](https://mastodon.social/@pachli) account.
+
 New releases appear on GitHub immediately.
 
-There is typically a 12-24 hour delay before a new release is available on Google Play.
+New releases are typically approved on Google Play within 12-24 hours.
+
+The release is then made available to an increasing percentage of the users every day. This helps catch issues that were not caught in Pachli Current.
+
+| Day                  | Percentage |
+|----------------------|------------|
+| Release day          | 10%        |
+| Release day + 1 day  | 30%        |
+| Release day + 2 days | 70%        |
+| Release day + 3 days | 100%       |
+
+So the new release will normally be available to you within four days of the release announcement.
 
 There is typically a 3-5 day delay before a new release is available on F-Droid.
 
@@ -38,7 +51,7 @@ Pachli Current can be installed from {% include playlink.html link="Google Play"
 
 New releases appear on GitHub immediately.
 
-There is typically a 12-24 hour delay before a new release is available on Google Play.
+There is typically a 12-24 hour delay before a new release is available on Google Play. Releases are made available to 100% of the users immediately.
 
 Pachli Current is not available from F-Droid as the F-Droid repository does not support these sorts of releases ([#1153](https://gitlab.com/fdroid/fdroidserver/-/issues/1153)).
 
