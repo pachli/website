@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 *~
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
